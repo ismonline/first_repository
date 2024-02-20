@@ -1,2 +1,3 @@
 Ceci est mon premier fichier
 Deuxieme ligne du fichier file1.txt
+Troisieme ligne du fichier file1.txt
